@@ -1,0 +1,11 @@
+{
+  "name": "html-portfolio",
+  "version": "1.0.0",
+  "description": "HTML Portfolio Project",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
